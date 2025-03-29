@@ -2,6 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Я меняю main!!!");
+        Console.WriteLine("Я меняю main!!!!");
     }
 }
